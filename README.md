@@ -1,2 +1,2 @@
 # LinkedList
-A data structure that works like the build in LinkedList.
+A data structure that works like the built in LinkedList.
